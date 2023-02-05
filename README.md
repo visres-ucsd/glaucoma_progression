@@ -1,23 +1,23 @@
 # glaucoma_progression
 
-Glaucoma progression project
+###Glaucoma progression project
 
 Using vision transformers applied to multimodal data sources
 
 required packages:
-    pytorch
-    einops
-    numpy
-    pandas
-    torchvision
-    tqdm
+    * pytorch
+    * einops
+    * numpy
+    * pandas
+    * torchvision
+    * tqdm
 
 model architectures: 
-    vit.py
-    vit_mmodal.py
+    * vit.py
+    * vit_mmodal.py
 
 dataset loader:
-    dataset.py
+    * dataset.py
 
 training script:
-    train.py
+    * train.py

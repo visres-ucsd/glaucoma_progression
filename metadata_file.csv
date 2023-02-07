@@ -1,0 +1,3 @@
+,IDEYE,maskedID,Eye,date_first_progression,date_second_progression,clinical_site,dob,glaucoma,progression_speed,MD_change,p_val,time_delta
+0,AL0998_OS,AL0998,OS,2021-01-21T14:23:13,2021-01-25T15:13:47,AL,10/15/1950,stable,NA,NA,NA,1.55
+1,AL0999_OD,AL0999,OD,2022-01-12T09:10:51,2022-01-30T09:53:18,AL,10/15/1950,progressing,NA,NA,NA,-3.4

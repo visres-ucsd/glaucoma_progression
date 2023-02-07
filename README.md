@@ -25,3 +25,7 @@ dataset loader:
 training script:
 
 * train.py
+
+sample data file (fake data): 
+
+* metadata_file.py

@@ -1,3 +1,3 @@
-,IDEYE,maskedID,Eye,date_first_progression,date_second_progression,clinical_site,dob,glaucoma,progression_speed,MD_change,p_val,time_delta
-0,AL0998_OS,AL0998,OS,2021-01-21T14:23:13,2021-01-25T15:13:47,AL,10/15/1950,stable,NA,NA,NA,1.55
-1,AL0999_OD,AL0999,OD,2022-01-12T09:10:51,2022-01-30T09:53:18,AL,10/15/1950,progressing,fast,-3.2,0.03,0.4
+,path,path2,date,diameter_mm,date_first_progression,date_second_progression,eye,IDEYE,follow_up,patient,dir,patient_level_glaucoma,MD_change,p_val,time_delta,Cohort
+0,AL9998_A_99998_0/AL9998_A_99998_0_bscan0000.tif,AL99999_A_99999_2/AL9999_A_99999_2_bscan0000.tif,04/24/2012,3.7,2012-04-24T13:48:17,2012-10-23T12:54:45,OS,AL9998_OS,0.4986301369863014,AL9998,AL9998_A_99998_0,stable,,,0.7788,Test
+1,AL1234_A_12345_0/AL1234_A_12345_0_bscan0000.tif,AL2345_A_23456_14/AL2345_A_23456_14_bscan0000.tif,04/24/2012,3.7,2012-04-24T13:48:17,2012-10-23T12:54:45,OS,AL1234_OS,0.4986301369863014,AL1234,AL1234_A_12345_0,progressing,-1.44,0.03,0.4985282851344497,Test
